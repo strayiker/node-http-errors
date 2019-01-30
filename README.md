@@ -1,8 +1,4 @@
-[![Version](https://badgen.net/npm/v/@sadbox/node-http-errors)](https://www.npmjs.com/package/@sadbox/walledator)
-
-[![License](https://badgen.net/npm/license/@sadbox/node-http-errors)](https://www.npmjs.com/package/@sadbox/walledator)
-
-[![Dependencies](https://badgen.net/david/dep/strayiker/node-http-errors)](https://www.npmjs.com/package/@sadbox/walledator)
+[![Version](https://badgen.net/npm/v/@sadbox/node-http-errors)](https://www.npmjs.com/package/@sadbox/walledator) [![License](https://badgen.net/npm/license/@sadbox/node-http-errors)](https://www.npmjs.com/package/@sadbox/walledator) [![Dependencies](https://badgen.net/david/dep/strayiker/node-http-errors)](https://www.npmjs.com/package/@sadbox/walledator)
 
 # NodeJs HTTP Errors
 
