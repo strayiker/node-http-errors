@@ -1,6 +1,6 @@
 {
   "name": "@sadbox/node-http-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP errors",
   "main": "lib/index.js",
   "author": "Kirill Mesnyankin <sadbox.games@gmail.com>",
