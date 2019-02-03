@@ -17,8 +17,8 @@ or
 ```javascript
 import { HttpError, BadRequest } from '@sadbox/node-http-errors';
 
-let err = HttpError({ code: 500, message: 'Internal Server Error.' });
-err = BadRequest(); // code 400 and default message for bad request error
-err = BadRequest('Bad User Input.'); // with custom message
-err = BadRequest({ fieldErrors }); // with custom property
+let err = new HttpError({ code: 500, message: 'Internal Server Error.' });
+err = new BadRequest(); // code 400 and default message for bad request error
+err = new BadRequest('Bad User Input.'); // with custom message
+err = new BadRequest({ fieldErrors }); // with custom property
 ```
